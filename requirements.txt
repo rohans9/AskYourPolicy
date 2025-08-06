@@ -1,0 +1,67 @@
+# FastAPI and web framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Database
+asyncpg
+sqlalchemy
+alembic
+
+# Document processing
+PyPDF2
+python-docx
+python-multipart
+aiofiles
+chardet
+beautifulsoup4
+
+# AI/ML Libraries
+openai
+sentence-transformers
+transformers
+torch
+numpy
+tiktoken
+
+# Vector databases
+faiss-cpu
+pinecone-client
+
+# HTTP client
+aiohttp
+httpx
+
+# Logging and utilities
+loguru
+python-json-logger
+
+# Development tools
+pytest
+pytest-asyncio
+pytest-cov
+black
+isort
+flake8
+
+# Environment management
+python-dotenv
+
+# Data processing
+pandas
+openpyxl
+
+# Caching (optional)
+redis
+aioredis
+
+# Monitoring (optional)
+prometheus-client
+
+# Security
+cryptography
+passlib[bcrypt]
+
+# Email processing
+email-validator
